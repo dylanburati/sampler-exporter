@@ -1,0 +1,61 @@
+{
+  "name": "Default project",
+  "instruments": [
+    {
+      "name": "Bass",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Bass.zip"
+    },
+    {
+      "name": "Brass Section",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Brass%20Section.zip"
+    },
+    {
+      "name": "Drumkit 1",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Drumkit%201.zip"
+    },
+    {
+      "name": "Drumkit 2",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Drumkit%202.zip"
+    },
+    {
+      "name": "Drumkit 3",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Drumkit%203.zip"
+    },
+    {
+      "name": "Flute",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Flute.zip"
+    },
+    {
+      "name": "Grand Piano",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Grand%20Piano.zip"
+    },
+    {
+      "name": "Harp",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Harp.zip"
+    },
+    {
+      "name": "Lead 1",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Lead%201.zip"
+    },
+    {
+      "name": "Space Voice",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Space%20Voice.zip"
+    },
+    {
+      "name": "Steel Drums",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Steel%20Drums.zip"
+    },
+    {
+      "name": "Synth Strings Lo-Fi",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Synth%20Strings%20Lo-Fi.zip"
+    },
+    {
+      "name": "Viola",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Viola.zip"
+    },
+    {
+      "name": "Violin",
+      "download": "https://dylanburati.github.io/sampler-exporter/dist/Violin.zip"
+    }
+  ]
+}

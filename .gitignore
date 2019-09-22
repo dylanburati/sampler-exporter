@@ -1,0 +1,6 @@
+/.ignored/
+/out-*
+/dist-*
+/out
+/node_modules/
+/package-lock.json

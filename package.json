@@ -1,0 +1,26 @@
+{
+  "name": "sampler-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make_instrument.js",
+  "dependencies": {
+    "archiver": "^3.1.1",
+    "sf2-parser": "git://github.com/colinbdclark/sf2-parser.git",
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/fd2b6bed1be502d119408bfe485301b6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/fd2b6bed1be502d119408bfe485301b6"
+  },
+  "homepage": "https://gist.github.com/fd2b6bed1be502d119408bfe485301b6"
+}
